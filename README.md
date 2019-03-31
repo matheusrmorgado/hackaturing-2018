@@ -3,7 +3,7 @@
 ## Grupo Airmid
 
 <p align="center">
-  <img src=https://github.com/matheusrmorgado/hackaturing-2018/blob/master/images/hackaturing-2.jpg height="631" width="422">
+  <img src=https://github.com/matheusrmorgado/hackaturing-2018/blob/master/images/hackaturing-2.jpg width="631" height="422">
 </p>
 
 
