@@ -3,11 +3,11 @@
 ## Grupo Airmid
 
 <p align="center">
-  <img src=https://github.com/matheusrmorgado/hackaturing-2018/blob/master/images/hackaturing-2.jpg height="477" width="614">
+  <img src=https://github.com/matheusrmorgado/hackaturing-2018/blob/master/images/hackaturing-2.jpg height="631" width="422">
 </p>
 
 
-### Instruções
+## Instruções
 
   1. Abrir arquivo hackaturing.ipynb 
   2. Rodar arquivo interfaceFinal.py
