@@ -19,7 +19,7 @@ O pitch final apresentado no hackathon pode ser visto acessando o arquivo [final
   3. Rodar arquivo [interfaceFinal.py](https://github.com/matheusrmorgado/hackaturing-2018/blob/master/interfaceFinal.py)
 
 
-## Apresentações em eventos
+## Apresentações em Eventos
 
 ### #25 Nubank Meetup (Como organizar um hackathon de Machine Learning - e vencê-lo)
 
